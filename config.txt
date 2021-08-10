@@ -1,3 +1,13 @@
 font_size=16pt
+<<<<<<< HEAD
 Without conflict is better!
 
+=======
+name = Nedka
+<<<<<<< HEAD
+
+name = Mitko
+=======
+const username = "stelko0"
+>>>>>>> bccda4090eeb054ed3f163fc99809e2f17d5c533
+>>>>>>> ea38ec0db96b0b66203bf6e56b4cee33b7a4e853
